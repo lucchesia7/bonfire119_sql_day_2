@@ -6,4 +6,4 @@ SQL Day 2 for Bonfire 119 including ERD, HW, and Notes from today
 ### Tables:
 actor: available columns:
 first_name: VARCHAR(50)
-![](dvd_rental_erd_1.png)
+![](data/dvd_rental_erd_1.png)
